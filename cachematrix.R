@@ -1,4 +1,4 @@
-##Hi,
+## Hi,
 ## Here is my code, made for Programming Assignment #2
 
 ## The makeCacheMatrix() function creates a special "matrix" object that can cache its inverse
